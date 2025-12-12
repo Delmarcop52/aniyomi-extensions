@@ -157,4 +157,6 @@ class Anicore : ParsedAnimeHttpSource() {
             screen.addPreference(this)
         }
     }
-}
+}<condition> ; then
+  echo "Game over!"
+  exit 1success
